@@ -55,6 +55,7 @@
     border-bottom: 1px solid #eee;
     z-index: 1000;
     transition: 0.3s;
+    
   }
 
   nav {
@@ -416,7 +417,7 @@
   }
 
   .contact {
-    background-color: #ff93f4;
+    background-color: #f9a0ff94;
 
   }
 
