@@ -108,7 +108,7 @@
   .hero {
     height: 100vh;
     background:
-      linear-gradient(rgba(49, 49, 49, 0.45), rgba(0, 0, 0, 0.937)),
+      linear-gradient(rgba(2, 2, 2, 0.397), rgba(0, 0, 0, 0.937)),
       url("./Gemini_Generated_Image_95gbq195gbq195gb.png") center/cover no-repeat;
     margin-top: 100px;
     display: flex;
@@ -417,14 +417,14 @@
   }
 
   .contact {
-    background-color: #f9a0ff94;
+       background: #fafafa;
 
   }
 
   .zor {
     max-width: 400px;
     height: 400px;
-    background-color: #65005b;
+    background-color: #000000e0;
     border-radius: 15px;
     color: #eee;
     font-size: 15px;
@@ -440,7 +440,7 @@
   }
 
   .malumot i {
-    background-color: #ce4db8;
+    background-color: #4141417a;
     font-size: 35px;
     border-radius: 50px;
   }
